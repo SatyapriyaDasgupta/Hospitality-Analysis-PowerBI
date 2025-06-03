@@ -9,8 +9,6 @@ Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA3ZGEzY
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands is losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. 
 
-### Task List
-
 Here is where I come into the picture— I used the historical data to build the Dashboard for AtliQ Grands.
 
 ## Dashboard
