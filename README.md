@@ -25,12 +25,13 @@ Here is where I come into the picture— I used the historical data to build the
     <img src='https://github.com/SatyapriyaDasgupta/Hospitality-Analysis-PowerBI/blob/a99c27f3fea151175441d103edde78d6550a4904/Resources/Hospitality%20Dashboard%20Data%20Model.png'>
 </p>
 
-## Learnt the following things from this project:
+## Learnt the Following Things from this Project
+
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60% to 90% of the booking cost.
 - Used a particular color palette and stick with that colors throughout the dashboard.
 - Domain Knowledge in Hospitality Sector including Important KPIs, such as: RevPAR, DSRN, DBRN, DURN etc.
 
-## Some Important insights from the Dashboard
+## Some Important Insights from the Dashboard
 
 - Mumbai generated the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
 - AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.3%.
