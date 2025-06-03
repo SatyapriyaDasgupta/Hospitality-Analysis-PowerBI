@@ -16,13 +16,13 @@ Here is where I come into the picture— I used the historical data to build the
 ## Dashboard
 
 <p align="center">
-    <img src='https://github.com/SatyapriyaDasgupta/Hospitality-Analysis-PowerBI/blob/a99c27f3fea151175441d103edde78d6550a4904/Resources/Hospitality%20Dashboard.png'>
+    <img src='https://github.com/SatyapriyaDasgupta/Hospitality-Analysis-PowerBI/blob/a99c27f3fea151175441d103edde78d6550a4904/Resources/Hospitality%20Dashboard.png' width="600">
 </p>
 
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/SatyapriyaDasgupta/Hospitality-Analysis-PowerBI/blob/a99c27f3fea151175441d103edde78d6550a4904/Resources/Hospitality%20Dashboard%20Data%20Model.png'>
+    <img src='https://github.com/SatyapriyaDasgupta/Hospitality-Analysis-PowerBI/blob/a99c27f3fea151175441d103edde78d6550a4904/Resources/Hospitality%20Dashboard%20Data%20Model.png' width="600">
 </p>
 
 ## Learnt the following things from this project:
